@@ -6,7 +6,8 @@ import Helium from './components/Helium';
 
 function App() {
   return (
-    <Router>
+    // Add basename="/elementwebsite" here
+    <Router basename="/elementwebsite">
       <div className="min-h-screen bg-gray-100">
         <Navbar />
         <main className="container mx-auto px-4 py-8">
