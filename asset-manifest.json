@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/elementwebsite/static/css/main.6ac15c83.css",
+    "main.js": "/elementwebsite/static/js/main.dc3fc0b9.js",
+    "index.html": "/elementwebsite/index.html",
+    "main.6ac15c83.css.map": "/elementwebsite/static/css/main.6ac15c83.css.map",
+    "main.dc3fc0b9.js.map": "/elementwebsite/static/js/main.dc3fc0b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ac15c83.css",
+    "static/js/main.dc3fc0b9.js"
+  ]
+}
